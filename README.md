@@ -1,4 +1,4 @@
-# Legenden om Zelda - Links oppvåkning DX
+# Legenden om Zelda - Links opvågning DX
 
 En dansk oversættelse af _The Legend of Zelda - Link's Awakening DX_.
 
