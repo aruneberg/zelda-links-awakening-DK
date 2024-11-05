@@ -10,7 +10,7 @@ Der findes allerede flere skandinaviske oversættelser vi kan lade os inspirere 
 
 ## Oplæg
 
-Dette repo er oprindeligt baseret [denne rom afmontering](https://github.com/zladx/LADX-Disassembly), men er en fork af [Legenden om Zelda: Links Oppvåkning](https://github.com/tobiasvl/zelda-links-awakening-NO/).
+Dette repo er oprindeligt baseret på [denne rom demontering](https://github.com/zladx/LADX-Disassembly), men er en fork af den norske repo; [Legenden om Zelda: Links Oppvåkning](https://github.com/tobiasvl/zelda-links-awakening-NO/).
 
 ## Diskuter
 
