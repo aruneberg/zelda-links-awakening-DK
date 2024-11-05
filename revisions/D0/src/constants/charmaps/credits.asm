@@ -1,0 +1,6 @@
+PUSHC
+NEWCHARMAP CreditsCharmap
+
+SETCHARMAP AsciiCharmap
+
+POPC
