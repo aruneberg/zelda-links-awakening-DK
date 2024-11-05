@@ -16,7 +16,7 @@ Opret gerne issues eller pull request hvis du har forslag til forbedringer/ændr
 
 - [Vindfisken.no](https://vindfisken.no): Hjemmeside med manual, patch, osv.
 - [Legenden om Zelda - Links oppvåkning DX - Github](https://github.com/koholition/zelda-links-awakening-NO/): Norsk Github projektlager.
-- [Romhacking.net](https://www.romhacking.net/translations/7153/)
-- [Twitter/X](https://twitter.com/koholition)
-- [Bluesky](https://bsky.app/profile/koholition.bsky.social)
-- [Original disassembly](https://github.com/zladx/LADX-Disassembly)
+- [Romhacking.net](https://www.romhacking.net/translations/7153/): Norsk Gameboy Rom patch
+- [Twitter/X](https://twitter.com/koholition): Twitter for det norske projekt
+- [Bluesky](https://bsky.app/profile/koholition.bsky.social): Bluesky for det norske projekt
+- [Original disassembly](https://github.com/zladx/LADX-Disassembly): Original Rom Demonteringsprojekt
