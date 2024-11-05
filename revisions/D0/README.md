@@ -19,8 +19,8 @@ Dette repo er oprindeligt baseret på [denne rom demontering](https://github.com
 ## Bidrag med oversættelser
 
 - Tekst som skal oversettes: https://github.com/tobiasvl/zelda-links-awakening-NO/tree/main/src/text
-- Font er allerede ordnet til at inkludere æ, ø og å fra den norske version: https://github.com/tobiasvl/zelda-links-awakening-NO/tree/main/src/gfx/fonts
-- Grafikk, som titelskærmen, kan vi ordne efter behov
+- Font er allerede ordnet til at inkludere æ, ø og å fra den norske version: [https://github.com/tobiasvl/zelda-links-awakening-NO/tree/main/src/gfx/fonts](https://github.com/koholition/zelda-links-awakening-NO/blob/norwegian/revisions/N0/src/gfx/fonts/)
+- Grafik, som titelskærmen og andet, kan vi ordne efter behov
 
 ## Test spillet
 
@@ -74,7 +74,7 @@ Du kan aktivere «noclip»-modul på en af to måder:
 - Hold D-paden nede og tryk SELECT for at fryse spillet, og tryk så SELECT igen for at aktivere noclip
 - Tryk START (pauseskærm) og så SELECT
 
-#### Warp
+#### Telepati
 
 Tryk B + SELECT på kortet for at teleportere direkte til hvor du vil. Du kan ende midt inde i en væg, aktiver i dette tilfælde noclip.
 
