@@ -3,8 +3,10 @@
 Lad os oversætte Link's Awakening til dansk!
 
 Der findes allerede flere skandinaviske oversættelser vi kan lade os inspirere af.
+
 - Norsk version: [Legenden om Zelda: Links Oppvåkning](https://github.com/tobiasvl/zelda-links-awakening-NO/)
 - Svensk version: [Legenden om Zelda: Links Uppvaknande](https://www.romhacking.net/translations/1245/)
+
 
 ## Oplæg
 
