@@ -525,37 +525,62 @@ Dialog013::
 ;    db "your heart!@    "
 
 Dialog014::
-    db "Husk denne sang-"
-    db "en! Du burde    "
-    db "spille den en   "
-    db "gang i blant for"
-    db "holde den friskt"
-    db "i minnet!@"
+; Dialog014 – Danish translation
+    db "Husk denne sang!"
+    db "Du bør spille   "
+    db "den en gang     "
+    db "imellem for at  "
+    db "holde den frisk "
+    db "i hukommelsen!@ "
+; Dialog014 – Norwegian translation
+;    db "Husk denne sang-"
+;    db "en! Du burde    "
+;    db "spille den en   "
+;    db "gang i blant for"
+;    db "holde den friskt"
+;    db "i minnet!@      "
+; Dialog014 – English original text
 ;    db "Please remember "
 ;    db "this song!  You "
 ;    db "should play it  "
 ;    db "every once in a "
 ;    db "while to keep it"
 ;    db "fresh in your   "
-;    db "mind!@"
+;    db "mind!@          "
 
 Dialog015::
-    db "Vær så snill!   "
-    db "Jeg vil at du   "
-    db "lærer deg den!  "
-    db "Det er yndlings-"
-    db "sangen min!@"
+; Dialog015 – Danish translation
+    db "Sig nu ja!     "
+    db "Jeg vil have at "
+    db "du lærer den!   "
+    db "Det er min      "
+    db "yndlingssang!@  "
+; Dialog015 – Norwegian translation
+;    db "Vær så snill!   "
+;    db "Jeg vil at du   "
+;    db "lærer deg den!  "
+;    db "Det er yndlings-"
+;    db "sangen min!@    "
+; Dialog015 – English original text
 ;    db "Please!  I want "
 ;    db "you to learn it!"
 ;    db "This song is my "
-;    db "favorite!@"
+;    db "favorite!@      "
 
 Dialog016::
-    db "Nå, liker du    "
+; Dialog016 – Danish translation
+    db "Nå, kan du lide "
     db "den? Er den ikke"
     db "rørende? Hører  "
-    db "du den for deg? "
-    db "    Ja   Nei<ask>"
+    db "du den for dig? "
+    db "    Ja   Nej<ask>"
+; Dialog016 – Norwegian translation
+;    db "Nå, liker du    "
+;    db "den? Er den ikke"
+;    db "rørende? Hører  "
+;    db "du den for deg? "
+;    db "    Ja   Nei<ask>"
+; Dialog016 – English original text
 ;    db "So, how do you  "
 ;    db "like it?  It's  "
 ;    db "really touching,"
@@ -565,54 +590,93 @@ Dialog016::
 ;    db "    Yes  No<ask>"
 
 Dialog017::
-    db "Hei der, tøffen!"
-    db "Jeg er Gale Tale"
-    db "og jeg selger en"
-    db "liten hemmelig- "
-    db "het som vil gi  "
-    db "deg futt!@"
+; Dialog017 – Danish translation
+    db "Hej der, fyr!   "
+    db "Vilde Tilde, det"
+    db "er mig - og jeg "
+    db "sælger en lille "
+    db "hemmelighed som "
+    db "giver dig fart!@"
+; Dialog017 – Norwegian translation
+;    db "Hei der, tøffen!"
+;    db "Jeg er Gale Tale"
+;    db "og jeg selger en"
+;    db "liten hemmelig- "
+;    db "het som vil gi  "
+;    db "deg futt!@      "
+; Dialog017 – English original text
 ;    db "Hi there, big   "
 ;    db "guy!  I'm Crazy "
 ;    db "Tracy!  I've got"
 ;    db "a little secret "
 ;    db "for sale that'll"
-;    db "pump you up!@"
+;    db "pump you up!@   "
 
 Dialog018::
-    db "Vil du gi meg 28"
-    db "rupier for min  "
-    db "hemmelighet?    "
-    db "    Gi   La være<ask>"
+; Dialog018 – Danish translation
+    db "Vil du give mig "
+    db "28 rupier for   "
+    db "min hemmelighed?"
+    db "  Giv   Lad være<ask>"
+; Dialog018 – Norwegian translation
+;    db "Vil du gi meg 28"
+;    db "rupier for min  "
+;    db "hemmelighet?    "
+;    db "    Gi   La være<ask>"
+; Dialog018 – English original text
 ;    db "Will you give me"
 ;    db "28 Rupees for my"
 ;    db "secret?         "
 ;    db "    Give Don't<ask>"
 
 Dialog019::
-    db "Hva sier du? 42 "
-    db "rupier for min  "
-    db "lille hemmelig- "
-    db "het_…           "
-    db "    Gi   La være<ask>"
+; Dialog019 – Danish translation
+    db "Hvad siger du?  "
+    db "42 rupier for   "
+    db "min lille       "
+    db "hemmelighed_…   "
+    db "  Giv   Lad være<ask>"
+; Dialog019 – Norwegian translation
+;    db "Hva sier du? 42 "
+;    db "rupier for min  "
+;    db "lille hemmelig- "
+;    db "het_…           "
+;    db "    Gi   La være<ask>"
+; Dialog019 – English original text
 ;    db "How about it?   "
 ;    db "42 Rupees for my"
 ;    db "little secret..."
 ;    db "    Give Don't<ask>"
 
 Dialog01A::
-    db "Greit, kom hit  "
-    db "så skal jeg gni "
-    db "det på deg!     "
-    db "_… Der_… Jeg har"
-    db "smurt på mitt   "
-    db "eget vidunder-  "
-    db "middel! Det vil "
-    db "begynne å virke "
-    db "idet du mister  "
-    db "alle hjertene!  "
-    db "Kom innom igjen "
-    db "en annen gang,  "
-    db "tøffen!@"
+; Dialog01A – Danish translation
+    db "Okay, kom her   "
+    db "så smører jeg   "
+    db "det på dig!     "
+    db "_… Der_… Jeg    "
+    db "har smurt dig i "
+    db "vidundermiddlet!"
+    db "Det vil begynde "
+    db "at virke, når du"
+    db "mister alle     "
+    db "hjerterne! Kom  "
+    db "forbi igen en   "
+    db "anden gang, fyr!@"
+; Dialog01A – Norwegian translation
+;    db "Greit, kom hit  "
+;    db "så skal jeg gni "
+;    db "det på deg!     "
+;    db "_… Der_… Jeg har"
+;    db "smurt på mitt   "
+;    db "eget vidunder-  "
+;    db "middel! Det vil "
+;    db "begynne å virke "
+;    db "idet du mister  "
+;    db "alle hjertene!  "
+;    db "Kom innom igjen "
+;    db "en annen gang,  "
+;    db "tøffen!@        "
+; Dialog01A – English original text
 ;    db "All right, come "
 ;    db "here and I'll   "
 ;    db "rub it on you!  "
@@ -630,134 +694,227 @@ Dialog01A::
 ;    db "big guy!@"
 
 Dialog01B::
-    db "Stikk av, da!   "
-    db "Kom tilbake når "
-    db "du har litt     "
-    db "spenn!@"
+; Dialog01B – Danish translation
+    db "Smut så med dig!"
+    db "Kom tilbage, når"
+    db "du har lidt     "
+    db "at handle med!@ "
+; Dialog01B – Norwegian translation
+;    db "Stikk av, da!   "
+;    db "Kom tilbake når "
+;    db "du har litt     "
+;    db "spenn!@         "
+; Dialog01B – English original text
 ;    db "Beat it, then!  "
 ;    db "Come back when  "
 ;    db "you have some   "
-;    db "cash!@"
+;    db "cash!@          "
 
 Dialog01C::
+; Dialog01C – Danish translation
     db "... ... ... ... "
     db "Men jeg vil ikke"
-    db "selge den til   "
-    db "deg!@"
+    db "sælge den til   "
+    db "dig!@           "
+; Dialog01C – Norwegian translation
+;    db "... ... ... ... "
+;    db "Men jeg vil ikke"
+;    db "selge den til   "
+;    db "deg!@           "
+; Dialog01C – English original text
 ;    db "... ... ... ... "
 ;    db "But I won't sell"
-;    db "it to you!@"
+;    db "it to you!@     "
 
 Dialog01D::
-    db "Vel, jeg tilbyr "
-    db "deg bare en     "
-    db "hemmelighet som "
-    db "vil gjøre deg   "
-    db "sterk! Du er så "
-    db "pysete!!@"
+; Dialog01D – Danish translation
+    db "Nå, jeg vil kun"
+    db "tilbyde dig en "
+    db "hemmelighed som"
+    db "som vil gøre   "
+    db "dig stærk! Din "
+    db "lille kylling!!@"
+; Dialog01D – Norwegian translation
+;    db "Vel, jeg tilbyr "
+;    db "deg bare en     "
+;    db "hemmelighet som "
+;    db "vil gjøre deg   "
+;    db "sterk! Du er så "
+;    db "pysete!!@       "
+; Dialog01D – English original text
 ;    db "Well!  I'm only "
 ;    db "offering you a  "
 ;    db "secret that will"
 ;    db "make you strong!"
 ;    db "You're such a   "
-;    db "chicken!!@"
+;    db "chicken!!@      "
 
 Dialog01E::
-    db "_… Du er så søt!"
-    db "Jeg gir deg 7   "
-    db "rupier i rabatt!@"
+; Dialog01E – Danish translation
+    db "_… Du er så sød!"
+    db "Jeg giver dig 7 "
+    db "rupier i rabat!@"
+; Dialog01E – Norwegian translation
+;    db "_… Du er så søt!"
+;    db "Jeg gir deg 7   "
+;    db "rupier i rabatt!@"
+; Dialog01E – English original text
 ;    db "...You're so    "
 ;    db "cute!  I'll give"
 ;    db "you a 7 Rupee   "
-;    db "discount!@"
+;    db "discount!@"      "
 
 Dialog01F::
-    db "Du fikk Marin!  "
+; Dialog01F – Danish translation
+    db "Du fik Marin!   "
     db "Er dette din    "
-    db "store sjanse?@"
+    db "store chance?@  "
+; Dialog01F – Norwegian translation
+;    db "Du fikk Marin!  "
+;    db "Er dette din    "
+;    db "store sjanse?@  "
+; Dialog01F – English original text
 ;    db "You got Marin!  "
 ;    db "Is this your big"
-;    db "chance?@"
+;    db "chance?@        "
 
 Dialog020::
+; Dialog020 – Danish translation
     db "GRRRR_… @"
+; Dialog020 – Norwegian translation
+;    db "GRRRR...@"
+; Dialog020 – English original text
 ;    db "GRRRR...@"
 
 Dialog021::
+; Dialog021 – Danish translation
     db "Heh heh heh ho! "
-    db "Du skal rote'rei"
-    db "bort, takka være"
-    db "meg! Heh heh!@"
-;	db "Heh heh heh ho! "
+    db "Du er fortabt,  "
+    db "takket være mig!"
+    db "Heh heh!@       "
+; Dialog021 – Norwegian translation
+;    db "Heh heh heh ho! "
+;    db "Du skal rote'rei"
+;    db "bort, takka være"
+;    db "meg! Heh heh!@  "
+; Dialog021 – English original text
+;    db "Heh heh heh ho! "
 ;    db "You're goin' ta "
 ;    db "be lost, thanks "
 ;    db "to me!  Heh heh!@"
 
 Dialog022::
+; Dialog022 – Danish translation
     db "VOV VOV!        "
-    db "VOV VOV!@"
+    db "VOV VOV!@       "
+; Dialog022 – Norwegian translation
+;    db "VOV VOV!        "
+;    db "VOV VOV!@       "
+; Dialog022 – English original text
 ;    db "BOW WOW!        "
-;    db "BOW WOW!@"
+;    db "BOW WOW!@       "
 
 Dialog023::
+; Dialog023 – Danish translation
     db "PIV PIV!        "
-    db "PIV PIV!@"
+    db "PIV PIV!@       "
+; Dialog023 – Norwegian translation
+;    db "PIV PIV!        "
+;    db "PIV PIV!@       "
+; Dialog023 – English original text
 ;    db "YIP YIP!        "
-;    db "YIP YIP!@"
+;    db "YIP YIP!@       "
 
 Dialog024::
-    db "La oss helbrede "
-    db "sårene dine og  "
-    db "bli kvitt alt   "
-    db "det stresset_…  "
-    db "Lukk øynene og  "
-    db "slapp av_… @"
+; Dialog024 – Danish translation
+    db "Lad os hele dine"
+    db "sår og fjerne   "
+    db "alt det stress_…"
+    db "Luk øjnene og   "
+    db "slap af_… @     "
+; Dialog024 – Norwegian translation
+;    db "La oss helbrede "
+;    db "sårene dine og  "
+;    db "bli kvitt alt   "
+;    db "det stresset_…  "
+;    db "Lukk øynene og  "
+;    db "slapp av_… @    "
+; Dialog024 – English original text
 ;    db "Let's heal your "
 ;    db "wounds and get  "
 ;    db "rid of all that "
 ;    db "stress... Close "
 ;    db "your eyes and   "
-;    db "relax...@"
+;    db "relax...@       "
 
 Dialog025::
-    db "Din ekle rotte! "
-    db "Du d-d-d... slo "
-    db "brødrene mine!  "
-    db "Du skal få!! Jeg"
-    db "kommer aldri til"
-    db "å glemme deg!@"
+; Dialog025 – Danish translation
+    db "Din lede rotte! "
+    db "Du d-d-d... slog"
+    db "mine brødre! Du "
+    db "skal få betalt! "
+    db "Jeg glemmer dig "
+    db "aldrig!@        "
+; Dialog025 – Norwegian translation
+;    db "Din ekle rotte! "
+;    db "Du d-d-d... slo "
+;    db "brødrene mine!  "
+;    db "Du skal få!! Jeg"
+;    db "kommer aldri til"
+;    db "å glemme deg!@  "
+; Dialog025 – English original text
 ;    db "You dirty rat!  "
 ;    db "You k-k-k...beat"
 ;    db "my brothers!    "
 ;    db "You'll pay!!    "
 ;    db "I'll never      "
-;    db "forget you!@"
+;    db "forget you!@    "
 
 Dialog026::
-    db "Hei din lus!    "
-    db "Tror du at du   "
-    db "kan slå meg?!   "
-    db "Gutter, få denne"
-    db "gjøken bort fra "
-    db "trynet mitt!@"
+; Dialog026 – Danish translation
+    db "Hej din lus!    "
+    db "Tror du, at du  "
+    db "kan slå mig?!   "
+    db "Drenge, få det  "
+    db "fjols væk fra   "
+    db "mit ansigt!@    "
+; Dialog026 – Norwegian translation
+;    db "Hei din lus!    "
+;    db "Tror du at du   "
+;    db "kan slå meg?!   "
+;    db "Gutter, få denne"
+;    db "gjøken bort fra "
+;    db "trynet mitt!@    "
+; Dialog026 – English original text
 ;    db "Hey runt!  You  "
 ;    db "think you can   "
 ;    db "take me?!  All  "
 ;    db "right boys, get "
 ;    db "this punk out   "
-;    db "of my face!@"
+;    db "of my face!@    "
 
 Dialog027::
-    db "Jepp! Det er    "
-    db "guttene mine!   "
-    db "Jeg er Fartein, "
-    db "kjekt å hilse på"
-    db "deg! Jeg kommer "
-    db "til å gå meg    "
-    db "bort i fjellene "
-    db "seinere, så hold"
-    db "utkikk etter meg"
-    db "er du grei!@"
+; Dialog027 – Danish translation
+    db "Jeps! Det er    "
+    db "mine drenge! Jeg"
+    db "er Papahl, rart "
+    db "at hilse på dig!"
+    db "Jeg vil fare    "
+    db "vild i bjergene "
+    db "senere, så hold "
+    db "øje med mig, ok!"
+; Dialog027 – Norwegian translation
+;    db "Jepp! Det er    "
+;    db "guttene mine!   "
+;    db "Jeg er Fartein, "
+;    db "kjekt å hilse på"
+;    db "deg! Jeg kommer "
+;    db "til å gå meg    "
+;    db "bort i fjellene "
+;    db "seinere, så hold"
+;    db "utkikk etter meg"
+;    db "er du grei!@    "
+; Dialog027 – English original text
 ;    db "Yep!  Those're  "
 ;    db "my boys!  I'm   "
 ;    db "Papahl, pleased "
@@ -765,30 +922,48 @@ Dialog027::
 ;    db "be lost in the  "
 ;    db "hills later, so "
 ;    db "keep a look out "
-;    db "for me, hear?@"
+;    db "for me, hear?@  "
 
 Dialog028::
+; Dialog028 – Danish translation
     db "Ja!! Ja!! Knus  "
-    db "dem! Knus dem   "
-    db "alle sammen!    "
+    db "dem! Knus dem!  "
+    db "Alle sammen!    "
     db "... ... ... ... "
-    db "Hva? Hva er     "
-    db "galt?@"
+    db "Hvad? Hvad er   "
+    db "der galt?@      "
+; Dialog028 – Norwegian translation
+;    db "Ja!! Ja!! Knus  "
+;    db "dem! Knus dem   "
+;    db "alle sammen!    "
+;    db "... ... ... ... "
+;    db "Hva? Hva er     "
+;    db "galt?@          "
+; Dialog028 – English original text
 ;    db "Yes!!  Yes!!    "
 ;    db "Break them!     "
 ;    db "Break them all! "
 ;    db "... ... ... ... "
 ;    db "What?  What's   "
-;    db "wrong?@"
+;    db "wrong?@         "
 
 Dialog029::
+; Dialog029 – Danish translation
     db "Himmel og hav!  "
-    db "Gutt, du har mye"
-    db "å lære. Prøver  "
-    db "du virkelig å   "
-    db "kjøpe noe som du"
-    db "ikke har bruk   " 
-    db "for?!@"
+    db "Knægt, du har   "
+    db "meget at lære.  "
+    db "Forsøger at købe"
+    db "noget, du ikke  "
+    db "har brug for?!@ "
+; Dialog029 – Norwegian translation
+;    db "Himmel og hav!  "
+;    db "Gutt, du har mye"
+;    db "å lære. Prøver  "
+;    db "du virkelig å   "
+;    db "kjøpe noe som du"
+;    db "ikke har bruk   " 
+;    db "for?!@          "
+; Dialog029 – English original text
 ;    db "Aye Caramba!    "
 ;    db "Kid, you have a "
 ;    db "lot to learn,   "
@@ -797,53 +972,86 @@ Dialog029::
 ;    db "have no use for!@"
 
 Dialog02A::
-    db "Du fikk et      "
-    db "hjerte! Dunk! Én"
-    db "av hjerte-      "
-    db "beholderne dine "
-    db "er fylt opp!@"
+; Dialog02A – Danish translation
+    db "Du har fået et  "
+    db "hjerte! Dunk!   "
+    db "Én af dine      "
+    db "hjertebeholdere "
+    db "er fyldt!@      "
+; Dialog02A – Norwegian translation
+;    db "Du fikk et      "
+;    db "hjerte! Dunk! Én"
+;    db "av hjerte-      "
+;    db "beholderne dine "
+;    db "er fylt opp!@   "
+; Dialog02A – English original text
 ;    db "You've got a    "
 ;    db "Heart!  Thump!  "
 ;    db "One of your     "
 ;    db "Heart Containers"
-;    db "is filled!@"
+;    db "is filled!@     "
 
 Dialog02B::
 Dialog02C::
     db "Pil og bue      "
     db "Kun 980 rupier! "
-    db "    Kjøp La være"
-    db "<ask>"
+    db "   Køb  Lad være<ask>"
+; Dialog02B – Norwegian translation
+;    db "Pil og bue      "
+;    db "Kun 980 rupier! "
+;    db "    Kjøp La være"
+;    db "<ask>           "
+; Dialog02C – English original text
 ;    db "Bow & Arrow Set "
 ;    db "Only 980 Rupees!"
 ;    db "    Buy  No Way<ask>"
 
 Dialog02D::
-    db "    10 piler    "
+; Dialog02D – Danish translation
+    db "    10 pile     "
     db "    10 rupier   "
-    db "    Kjøp La være<ask>"
-;    db "   10 Arrows    "
-;    db "   10 Rupees    "
+    db "   Køb  Lad være<ask>"
+; Dialog02D – Norwegian translation
+;    db "    10 piler    "
+;    db "    10 rupier   "
+;    db "    Kjøp La være<ask>"
+; Dialog02D – English original text
+;    db "    10 Arrows   "
+;    db "    10 Rupees   "
 ;    db "    Buy  Don't<ask>"
 
 Dialog02E::
-    db "Hei! Velkommen! "
-    db "Ser du noe du   "
-    db "liker?! Bare ta "
-    db "det med hit!@"
- ;    db "Hey!  Welcome!  "
- ;    db "See something   "
- ;    db "you like?!  Just"
- ;    db "bring it here!@"
+; Dialog02E – Danish translation
+    db "Hej! Velkommen! "
+    db "Ser du noget du "
+    db "synes om?! Bring"
+    db "det her over!@  "
+; Dialog02E – Norwegian translation
+;    db "Hei! Velkommen! "
+;    db "Ser du noe du   "
+;    db "liker?! Bare ta "
+;    db "det med hit!    "
+; Dialog02E – English original text
+;    db "Hey!  Welcome!  "
+;    db "See something   "
+;    db "you like?!  Just"
+;    db "bring it here!  "
 
 Dialog02F::
-    db "Hei! Du! Stopp! "
-    db "Du må betale!   "
-    db "Legg den til-   "
-    db "bake!@"
- ;   db "Hey! You! Stop! "
- ;   db "You gotta pay!  "
- ;   db "Put it back!@"
+; Dialog02F – Danish translation
+    db "Hej! Du! Stop! "
+    db "Du skal betale!"
+    db "Læg den        "
+    db "tilbage!@      "
+; Dialog02F – Norwegian translation
+;   db "Hei! Du! Stopp! "
+;   db "Du må betale!   "
+;   db "Legg den til-   "
+;   db "bake!@          "
+; Dialog02F – English original text
+;   db "Hey! You! Stop! "
+;   db "You gotta pay!  "
+;   db "Put it back!@    "
 
 Dialog030::
     db "      Spade     "
