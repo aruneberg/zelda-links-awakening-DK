@@ -59,7 +59,7 @@
 | Selecting The Item That's Right For You 	| アイテムのセレクトほうほう 	|      	|        	|Velg gjenstanden som passer for deg|           	| Hvordan velge gjenstanden som er rett for deg |
 | Auto Map and Memo Guide Book            	| マップがめんとメモ         	|      	|        	|   Hvordan bruke kartet: En manual    	|			   |           	|
 | Secrets of the Whirling Blade           	| ひでん！ かいてんぎり      	|      	|        	|Hemmelighetene til den virvlende klingen|			   |			   | Det snurrende sverdets hemmeligheter          	|
-| The Properties Of Warp Holes            	| ワープのほうそく           	|      	|        	|  Teorien om ormehull | Varpehullenes egenskaper / Teleportørenes egenskaper         	|           	|
+| The Properties Of Warp Holes            	| ワープのほうそく           	|      	|        	|  Teorien om ormehull |			   | Varpehullenes egenskaper / Teleportørenes egenskaper         	|           	|
 | Fun With Bombs                          	| バクダンは かつげる        	|      	|        	| Moro med bomber	|           	| Gøy med bomber          	|
 | Atlas Of Koholint Island                	| コホリントじまのちず       	|      	|        	| Atlas over Koholint	|           	| Atlas over Koholint          	|
 | Dark Secrets And Mysteries Of Koholint  	| ヒミツのほん？！           	|      	|        	| De dunkle gåtene og mysteriene på Koholint |			   | Mørke hemmeligheter og mysterier på Koholint / Koholints mørke hemmeligheter og mysterier          	|           	|
