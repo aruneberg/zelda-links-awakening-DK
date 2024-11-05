@@ -14,7 +14,7 @@ Opret gerne issues eller pull request hvis du har forslag til forbedringer/ændr
 
 ## Links
 
-- [Vindfisken.no](https://vindfisken.no): Nettside med manual, patch, osv.
+- [Vindfisken.no](https://vindfisken.no): Hjemmeside med manual, patch, osv.
 - [Legenden om Zelda - Links oppvåkning DX - Github](https://github.com/koholition/zelda-links-awakening-NO/): Norsk Github projektlager.
 - [Romhacking.net](https://www.romhacking.net/translations/7153/)
 - [Twitter/X](https://twitter.com/koholition)
