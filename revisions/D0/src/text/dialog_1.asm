@@ -1469,40 +1469,65 @@ Dialog048::
 ;    db "<ask>           "
 
 Dialog049::
-    db "Oi! Den kom seg "
-    db "unna! Vil du    "
-    db "prøve igjen?    "
-    db "    Kast Ikke nå"
-    db "<ask>"
+; Dialog049 – Danish translation
+    db "Øv! Den slap væk"
+    db "Vil du prøve    "
+    db "igen?           "
+    db "    Kast Ikke nu<ask>"
+; Dialog049 – Norwegian translation
+;    db "Oi! Den kom seg "
+;    db "unna! Vil du    "
+;    db "prøve igjen?    "
+;    db "    Kast Ikke nå"
+;    db "<ask>           "
+; Dialog049 – English original text
 ;    db "Wow! That one   "
 ;    db "got away!  Want "
 ;    db "to try again?   "
 ;    db "    Cast Not Now"
-;    db "<ask>"
+;    db "<ask>           "
 
 Dialog04A::
-    db "Wow! Flott fisk!"
-    db "Litt av en rugg!"
-    db "Jeg kan gi deg  "
-    db "20 rupier for   "
-    db "den! Prøv igjen?"
-    db "    Kast Ikke nå"
-    db "<ask>"
+; Dialog04A – Danish translation
+    db "Wow! Flot fisk! "
+    db "En ordentlig    "
+    db "krabat! Jeg vil "
+    db "give 20 rupier. "
+    db "for den! Vil du "
+    db "prøve igen?     "
+    db "    Kast Ikke nu<ask>"
+; Dialog04A – Norwegian translation
+;    db "Wow! Flott fisk!"
+;    db "Litt av en rugg!"
+;    db "Jeg kan gi deg  "
+;    db "20 rupier for   "
+;    db "den! Prøv igjen?"
+;    db "    Kast Ikke nå"
+;    db "<ask>           "
+; Dialog04A – English original text
 ;    db "Wow! Nice Fish! "
 ;    db "It's a lunker!! "
 ;    db "I'll give you a "
 ;    db "20 Rupee prize! "
 ;    db "Try again?      "
 ;    db "    Cast Not Now"
-;    db "<ask>"
+;    db "<ask>           "
 
 Dialog04B::
-    db "Dammen er fisket"
-    db "helt tom. Hvor- "
-    db "for ikke prøve  "
-    db "fiskelykken i   "
-    db "sjøen?          "
-    db "    Ja   Nei<ask>"
+; Dialog04B – Danish translation
+    db "Dammen er tom nu"
+    db "Hvorfor ikke   "
+    db "prøve lykken i "
+    db "søen?          "
+    db "    Ok   Nej<ask>"
+; Dialog04B – Norwegian translation
+;    db "Dammen er fisket"
+;    db "helt tom. Hvor- "
+;    db "for ikke prøve  "
+;    db "fiskelykken i   "
+;    db "sjøen?          "
+;    db "    Ja   Nei<ask>"
+; Dialog04B – English original text
 ;    db "This pond's all "
 ;    db "fished out.  Why"
 ;    db "not try your    "
@@ -1510,20 +1535,35 @@ Dialog04B::
 ;    db "    Okay No<ask>"
 
 Dialog04C::
-    db "Sa jeg det? Glem"
-    db "det, greit?     "
-    db "Stikk av, nå_…@"
+; Dialog04C – Danish translation
+    db "Sagde jeg det?  "
+    db " Glem det, okay?"
+    db "Smut med dig_…@ "
+; Dialog04C – Norwegian translation
+;    db "Sa jeg det? Glem"
+;    db "det, greit?     "
+;    db "Stikk av, nå_…@ "
+; Dialog04C – English original text
 ;    db "Did I say that? "
 ;    db "Forget it, okay?"
 ;    db "Run along now...@"
 
 Dialog04D::
-    db "En liten en! Jeg"
-    db "gir deg bare 5  "
-    db "rupier for den  "
-    db "der. Du burde   "
-    db "prøve igjen!    "
-    db "    Ja   Nei<ask>"
+; Dialog04D – Danish translation
+    db "En lille en! Jeg"
+    db "giver dig kun 5 "
+    db "rupier for den. "
+    db "Du burde prøve  "
+    db "igen!           "
+    db "    Ok   Nej<ask>"
+; Dialog04D – Norwegian translation
+;    db "En liten en! Jeg"
+;    db "gir deg bare 5  "
+;    db "rupier for den  "
+;    db "der. Du burde   "
+;    db "prøve igjen!    "
+;    db "    Ja   Nei<ask>"
+; Dialog04D – English original text
 ;    db "It's a runt!    "
 ;    db "I'll only give  "
 ;    db "you a 5 Rupees  "
@@ -1533,36 +1573,59 @@ Dialog04D::
 ;    db "    Okay No<ask>"
 
 Dialog04E::
-    db "Har du for få   "
-    db "rupier? Ikke noe"
+; Dialog04E – Danish translation
+    db "Har du ikke nok "
+    db "rupier? Intet   "
     db "problem. Kom    "
-    db "tilbake når du  "
-    db "har mer penger, "
-    db "kompis.@"
+    db "tilbage når du  "
+    db "har mere at købe"
+    db "for, lille ven.@"
+; Dialog04E – Norwegian translation
+;    db "Har du for få   "
+;    db "rupier? Ikke noe"
+;    db "problem. Kom    "
+;    db "tilbake når du  "
+;    db "har mer penger, "
+;    db "kompis.@        "
+; Dialog04E – English original text
 ;    db "You're short of "
 ;    db "Rupees?  Don't  "
 ;    db "worry about it. "
 ;    db "You just come   "
 ;    db "back when you   "
 ;    db "have more money,"
-;    db "little buddy.@"
+;    db "little buddy.@  "
 
 Dialog04F::
-    db "Du fikk en      "
-    db "hjertebit! Trykk"
+; Dialog04F – Danish translation
+    db "Du fik en       "
+    db "hjertebid! Tryk "
     db "SELECT i under- "
-    db "menyen for å se.@"
+    db "menu for at se.@"
+; Dialog04F – Norwegian translation
+;    db "Du fikk en      "
+;    db "hjertebit! Trykk"
+;    db "SELECT i under- "
+;    db "menyen for å se.@"
+; Dialog04F – English original text
 ;    db "You've got a    "
 ;    db "Piece of Heart! "
 ;    db "Press SELECT on "
 ;    db "the Subscreen   "
-;    db "to see.@"
+;    db "to see.@        "
 
 Dialog050::
-    db "Du samlet fire  "
-    db "hjertebiter. Nå "
-    db "har du en full  "
+; Dialog050 – Danish translation
+    db "Du har samlet 4 "
+    db "hjertebidder. Nu"
+    db "har du en fuld  "
     db "hjertebeholder!@"
+; Dialog050 – Norwegian translation
+;    db "Du samlet fire  "
+;    db "hjertebiter. Nå "
+;    db "har du en full  "
+;    db "hjertebeholder!@"
+; Dialog050 – English original text
 ;    db "You collected   "
 ;    db "four Pieces of  "
 ;    db "Heart.  Now, you"
@@ -1570,14 +1633,21 @@ Dialog050::
 ;    db "Heart Container!@"
 
 Dialog051::
-    db "Brrr... Dette er"
-    db "en massiv is-   "
-    db "blokk! Den er   "
-    db "veldig kald!@"
+; Dialog051 – Danish translation
+    db "Brrr_… Det er en"
+    db "massiv isblok.  "
+    db "Den er meget    "
+    db "kold!@          "
+; Dialog051 – Norwegian translation
+;    db "Brrr... Dette er"
+;    db "en massiv is-   "
+;    db "blokk! Den er   "
+;    db "veldig kald!@   "
+; Dialog051 – English original text
 ;    db "Brrrr... This is"
 ;    db "a block of solid"
 ;    db "ice!  It's very "
-;    db "cold!@"
+;    db "cold!@          "
 
 Dialog052::
     db "ÆDDA BÆDDA! Du  "
