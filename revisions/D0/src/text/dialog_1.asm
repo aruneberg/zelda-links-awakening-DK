@@ -1791,83 +1791,151 @@ Dialog057::
 ;    db "   Bottle Grotto@"
 
 Dialog058::
-    db "Nivå 3--        "
-    db " Nøkkelkjelleren@"
+; Dialog058 – Danish translation
+    db "Niveau 3--      "
+    db "   Nøglekælderen@"
+; Dialog058 – Norwegian translation
+;    db "Nivå 3--        "
+;    db " Nøkkelkjelleren@"
+; Dialog058 – English original text
 ;    db "Level 3--       "
 ;    db "      Key Cavern@"
 
 Dialog059::
-    db "Nivå 4--        "
-    db "  Marulktunnelen@"
+; Dialog059 – Danish translation
+    db "Niveau 4--      "
+    db "    Ulketunnelen@"
+; Dialog059 – Norwegian translation
+;    db "Nivå 4--        "
+;    db "  Marulktunnelen@"
+; Dialog059 – English original text
 ;    db "Level 4--       "
 ;    db " Angler's Tunnel@"
 
 Dialog05A::
-    db "Nivå 5--        "
+; Dialog05A – Danish translation
+    db "Niveau 5--      "
     db "      Mallegapet@"
+; Dialog05A – Norwegian translation
+;    db "Nivå 5--        "
+;    db "      Mallegapet@"
+; Dialog05A – English original text
 ;    db "Level 5--       "
 ;    db "   Catfish's Maw@"
 
 Dialog05B::
-    db "Nivå 6--        "
-    db " Ansiktstempelet@"
+; Dialog05B – Danish translation
+    db "Niveau 6--      "
+    db "  Ansigtstemplet@"
+; Dialog05B – Norwegian translation
+;    db "Nivå 6--        "
+;    db " Ansiktstempelet@"
+; Dialog05B – English original text
 ;    db "Level 6--       "
 ;    db "     Face Shrine@"
 
 Dialog05C::
-    db "Nivå 7--        "
+; Dialog05C – Danish translation
+    db "Niveau 7--      "
     db "      Ørnetårnet@"
+; Dialog05C – Norwegian translation
+;    db "Nivå 7--        "
+;    db "      Ørnetårnet@"
+; Dialog05C – English original text
 ;    db "Level 7--       "
 ;    db "   Eagle's Tower@"
 
 Dialog05D::
-    db "Nivå 8--        "
-    db " Skilpaddeberget@"
+; Dialog05D – Danish translation
+    db "Niveau 8--      "
+    db "Skildpaddestenen@"
+; Dialog05D – Norwegian translation
+;    db "Nivå 8--        "
+;    db " Skilpaddeberget@"
+; Dialog05D – English original text
 ;    db "Level 8--       "
 ;    db "     Turtle Rock@"
 
 Dialog05E::
-    db "Vindfiskens egg@"
+; Dialog05E – Danish translation
+    db "Vindfiskens æg@ "
+; Dialog05E – Norwegian translation
+;    db "Vindfiskens egg@"
+; Dialog05E – English original text
 ;    db "Wind Fish's Egg @"
 
 Dialog05F::
-Dialog060::
-    db "Fjellbrua@"
+; Dialog05F – Danish translation
+    db "Bjergbroen@     "
+; Dialog05F – Norwegian translation
+;    db "Fjellbrua@      "
+; Dialog05F – English original text
 ;    db "Mountain Bridge @"
 
 Dialog061::
-    db "Skjalgs banan-  "
-    db "    modneri@"
+; Dialog061 – Danish translation
+    db "     Ricos      "
+    db "  bananmodneri@ "
+; Dialog061 – Norwegian translation
+;    db "Skjalgs banan-  "
+;    db "    modneri@    "
+; Dialog061 – English original text
 ;    db "Sale's House O' "
-;    db "    Bananas@"
+;    db "    Bananas@    "
 
 Dialog062::
-    db "Jettegryter@"
-;    db "Pothole Field@"
+; Dialog062 – Danish translation
+    db "Hulmark@        "
+; Dialog062 – Norwegian translation
+;    db "Jettegryter@    "
+; Dialog062 – English original text
+;    db "Pothole Field@  "
 
 Dialog063::
-    db "    Huset ved   "
-    db "      sjøen@"
+; Dialog063 – Danish translation
+    db "   Huset ved    "
+    db "    bugten@     "
+; Dialog063 – Norwegian translation
+;    db "    Huset ved   "
+;    db "      sjøen@    "
+; Dialog063 – English original text
 ;    db "    House By    "
-;    db "     The Bay@"
+;    db "     The Bay@   "
 
 Dialog064::
-    db "    Klokroken@"
-;    db "   Trendy Game@"
+; Dialog064 – Danish translation
+    db "       Klokrogen@"
+; Dialog064 – Norwegian translation
+;    db "       Klokroken@"
+; Dialog064 – English original text
+;    db "     Trendy Game@"
 
 Dialog065::
-    db "   Landhandler@"
+; Dialog065 – Danish translation
+    db "   Værktøjsbutik@"
+; Dialog065 – Norwegian translation
+;    db "     Landhandler@"
+; Dialog065 – English original text
 ;    db "  Town Tool Shop@"
 
 Dialog066::
+; Dialog066 – Danish translation
     db "Marin og        "
     db "      Tarins hus@"
+; Dialog066 – Norwegian translation
+;    db "Marin og        "
+;    db "      Tarins hus@"
+; Dialog066 – English original text
 ;    db "Marin and       "
 ;    db "   Tarin's House@"
 
 Dialog067::
-    db "  Heksas hytte@"
-;    db "   Witch's Hut@"
+; Dialog067 – Danish translation
+    db "   Heksens hytte@"
+; Dialog067 – Norwegian translation
+;    db "    Heksas hytte@"
+; Dialog067 – English original text
+;    db "     Witch's Hut@"
 
 Dialog068::
     db " Yaharaørkenen@"
