@@ -1650,20 +1650,34 @@ Dialog051::
 ;    db "cold!@          "
 
 Dialog052::
-    db "ÆDDA BÆDDA! Du  "
+; Dialog052 – Danish translation
+    db "BUUH HUUH! Du   "
     db "kan ikke skade  "
-    db "meg så lenge jeg"
-    db "har flaska mi!@"
+    db "mig så længe jeg"
+    db "har min flaske!@"
+; Dialog052 – Norwegian translation
+;    db "ÆDDA BÆDDA! Du  "
+;    db "kan ikke skade  "
+;    db "meg så lenge jeg"
+;    db "har flaska mi!@ "
+; Dialog052 – English original text
 ;    db "NYAH NYAH! You  "
 ;    db "can't hurt me as"
 ;    db "long as I have  "
-;    db "my bottle!@"
+;    db "my bottle!@     "
 
 Dialog053::
-    db "Uæææææææ! D-d-du"
-    db "knuste flaska   "
-    db "mi! Du gjør meg "
-    db "fly forbanna!!!@"
+; Dialog053 – Danish translation
+    db "Hvaaad! D-d-du  "
+    db "knuste min      "
+    db "flaske! Hvorfo_…"
+    db "Nu er jeg vred!!@"
+; Dialog053 – Norwegian translation
+;    db "Uæææææææ! D-d-du"
+;    db "knuste flaska   "
+;    db "mi! Du gjør meg "
+;    db "fly forbanna!!!@"
+; Dialog053 – English original text
 ;    db "Waaaah! You- you"
 ;    db "broke my bottle!"
 ;    db "Why, you... You "
@@ -1671,18 +1685,33 @@ Dialog053::
 ;    db "mad!!!@"
 
 Dialog054::
-    db "Ja ja, #####, du"
-    db "våkna endelig_… "
-    db "Jeg er'n Tarin_…"
-    db "Håper'u føler   "
-    db "deg bedre_…     "
-    db "Hva? Hvordan    "
-    db "jeg veit navnet "
-    db "ditt? Du synes  "
-    db "det er rart, hæ?"
-    db "Jo, jeg så det  "
-    db "bakpå dette     "
-    db "skjoldet!@     "    
+; Dialog054 – Danish translation
+    db "Ja ja, #####, så"
+    db "vågnede du_…    "
+    db "Jeg er Tarin_…  "
+    db "Håber du har det"
+    db "bedre nu_…      "
+    db "Hva? Hvordan jeg"
+    db "ved dit navn?   "
+    db "Du synes det er "
+    db "underligt, ikke?"
+    db "Jo ser du, jeg  "
+    db "så det bag på   "
+    db "dette skjold!@  "
+; Dialog054 – Norwegian translation
+;    db "Ja ja, #####, du"
+;    db "våkna endelig_… "
+;    db "Jeg er'n Tarin_…"
+;    db "Håper'u føler   "
+;    db "deg bedre_…     "
+;    db "Hva? Hvordan    "
+;    db "jeg veit navnet "
+;    db "ditt? Du synes  "
+;    db "det er rart, hæ?"
+;    db "Jo, jeg så det  "
+;    db "bakpå dette     "
+;    db "skjoldet!@      "    
+; Dialog054 – English original text
 ;    db "Well, #####, ya "
 ;    db "finally snapped "
 ;    db "out of it...    "
@@ -1698,21 +1727,35 @@ Dialog054::
 ;    db "of this shield!@"
 ;ELSE
 ;    db "it on back of   "
-;    db "this shield!@"
+;    db "this shield!@   "
 ;ENDC
 
 Dialog055::
-    db "Å ja_… Det var  "
-    db "no' mer sånt som"
-    db "skylte opp på   "
-    db "stranda_… Hvis  "
-    db "du går og ser,  "
-    db "pass deg for    "
-    db "monstre. Siden  "
-    db "du dukka opp,   "
-    db "#####, har jeg  "
-    db "sett'em over-   "
-    db "alt!@"
+; Dialog055 – Danish translation
+    db "Åh ja_… Der var "
+    db "noget andet, der"
+    db "skyllede op på  "
+    db "stranden_… Hvis "
+    db "du går derned,  "
+    db "så pas på       "
+    db "monstrene. Lige "
+    db "siden du dukkede"
+    db "op, #####, har  "
+    db "jeg set dem     "
+    db "overalt!@       "
+; Dialog055 – Norwegian translation
+;    db "Å ja_… Det var  "
+;    db "no' mer sånt som"
+;    db "skylte opp på   "
+;    db "stranda_… Hvis  "
+;    db "du går og ser,  "
+;    db "pass deg for    "
+;    db "monstre. Siden  "
+;    db "du dukka opp,   "
+;    db "#####, har jeg  "
+;    db "sett'em over-   "
+;    db "alt!@          "
+; Dialog055 – English original text
 ;    db "Oh, yeah... Some"
 ;    db "other stuff like"
 ;    db "this washed up  "
@@ -1726,14 +1769,24 @@ Dialog055::
 ;    db "over the place!@"
 
 Dialog056::
-    db "Nivå 1--        "
-    db "        Halehula@"
+; Dialog056 – Danish translation
+    db "Niveau 1--      "
+    db "     Halehulen@ "
+; Dialog056 – Norwegian translation
+;    db "Nivå 1--        "
+;    db "        Halehula@"
+; Dialog056 – English original text
 ;    db "Level 1--       "
-;    db "     Tail Cave@"
+;    db "     Tail Cave@ "
 
 Dialog057::
-    db "Nivå 2--        "
-    db "    Flaskegrotta@"
+; Dialog057 – Danish translation
+    db "Niveau 2--      "
+    db "   Flaskegrotten@"
+; Dialog057 – Norwegian translation
+;    db "Nivå 2--        "
+;    db "    Flaskegrotta@"
+; Dialog057 – English original text
 ;    db "Level 2--       "
 ;    db "   Bottle Grotto@"
 
