@@ -1954,25 +1954,46 @@ Dialog069::
 ;    db "   Ukuku Prairie@"
 
 Dialog06A::
-    db " Mysterieskogen@"
+; Dialog06A – Danish translation
+    db "  Mysterieskoven@"
+; Dialog06A – Norwegian translation
+;    db "  Mysterieskogen@"
+; Dialog06A – English original text
 ;    db "Mysterious Woods@"
 
 Dialog06B::
-    db "   Tindeggen@"
+; Dialog06B – Danish translation
+    db "    Himmeltinden@"
+; Dialog06B – Norwegian translation
+;    db "       Tindeggen@"
+; Dialog06B – English original text
 ;    db "  Mt. Tamaranch @"
 
 Dialog06C::
+; Dialog06C – Danish translation
     db "   Tipptopp-    "
-    db "   fjellene@"
+    db "   bjergene@    "
+; Dialog06C – Norwegian translation
+;    db "   Tipptopp-    "
+;    db "   fjellene@    "
+; Dialog06C – English original text
 ;    db "     Tal Tal    "
 ;    db " Mountain Range @"
 
 Dialog06D::
-    db "  Skiltlabyrint@"
-;    db "  Signpost Maze @"
+; Dialog06D – Danish translation
+    db "  Skilteskoven   @"
+; Dialog06D – Norwegian translation
+;    db "  Skiltlabyrint  @"
+; Dialog06D – English original text
+;    db "  Signpost Maze  @"
 
 Dialog06E::
-    db " Måsebu landsby@"
+; Dialog06E – Danish translation
+    db "Mabelund landsby@"
+; Dialog06E – Norwegian translation
+;    db " Måsebu landsby @"
+; Dialog06E – English original text
 ;    db "  Mabe Village  @"
 
 Dialog06F::
