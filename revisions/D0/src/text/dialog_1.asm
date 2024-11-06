@@ -1938,12 +1938,20 @@ Dialog067::
 ;    db "     Witch's Hut@"
 
 Dialog068::
-    db " Yaharaørkenen@"
-;    db "  Yarna Desert@"
+; Dialog068 – Danish translation
+    db "   Yaharaørkenen@"
+; Dialog068 – Norwegian translation
+;    db "   Yaharaørkenen@"
+; Dialog068 – English original text
+;    db "    Yarna Desert@"
 
 Dialog069::
-    db "  Ulelesletta@"
-;    db "  Ukuku Prairie@"
+; Dialog069 – Danish translation
+    db "    Ukukusletten@"
+; Dialog069 – Norwegian translation
+;    db "     Ulelesletta@"
+; Dialog069 – English original text
+;    db "   Ukuku Prairie@"
 
 Dialog06A::
     db " Mysterieskogen@"
